@@ -1,0 +1,72 @@
+.navBar{
+    background-color: black;
+    overflow: hidden;
+}
+.navBar a{
+    float: left;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+}
+.header
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.navBar a:hover{
+    background-color: darkgray;
+    color: black
+}
+.divided
+{
+    width: 21%;
+    float: left;
+    text-align: center;
+    font-family: cursive;
+    padding: 20px;
+}
+.members{
+    background-color: lightgray;
+    align-content: center;
+    padding: 10px;
+    
+    position: absolute;
+    
+    
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    padding: 10px;
+    max-height: 200px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.aboutus{
+    font-family: cursive;
+    font-size: 15px;
+    text-align: center;
+}
+
+.row-padding{
+    padding: 20px;
+    text-align: center;
+}
+.slideContainer{
+    background: #000000;
+    max-width: 1000px;
+    margin: auto;
+    max-height: 500px
+}
+
+.form
+{
+    background-color: lightgray;
+    
+}
+
